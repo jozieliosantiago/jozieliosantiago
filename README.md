@@ -31,9 +31,3 @@
  
   ![Snake animation](https://github.com/jozieliosantiago/jozieliosantiago/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jozieliosantiago/jozieliosantiago/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jozieliosantiago/jozieliosantiago/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/jozieliosantiago/jozieliosantiago/blob/output/github-contribution-grid-snake.svg">
-</picture>
